@@ -1,2 +1,8 @@
-Financial Analysis
+Election Results
+----------------------------
+Candidate Name: Charles Casper Stockham with 85213 votes at 23.05%
+Candidate Name: Diana DeGette with 272892 votes at 73.81%
+Candidate Name: Raymon Anthony Doane with 11606 votes at 3.14%
+----------------------------
+Winner: Diana DeGette
 ----------------------------
